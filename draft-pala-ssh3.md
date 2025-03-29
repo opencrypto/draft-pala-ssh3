@@ -19,18 +19,17 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "SSH v3.0"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-pala-ssh3
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: SECURITY
+workgroup: SSH WG
 keyword:
  - next generation
  - unicorn
@@ -38,16 +37,14 @@ keyword:
 venue:
   group: WG
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  mail: ssh@ietf.org
+  github: opencrypto/draft-pala-ssh3
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Massimiliano Pala
+    organization: OpenCA Labs
+    email: madwolf@openca.org
 
 normative:
 
