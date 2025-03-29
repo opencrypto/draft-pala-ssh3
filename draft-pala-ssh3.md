@@ -8,17 +8,17 @@ number:
 date:
 consensus: true
 v: 3
-area: SECURITY
-workgroup: SSH WG
+# area: SECURITY
+# workgroup: SSH WG
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: ssh@ietf.org
-  github: opencrypto/draft-pala-ssh3
+#  group: WG
+#  type: Working Group
+#  mail: ssh@ietf.org
+  github: "opencrypto/draft-pala-ssh3"
 
 author:
  -
